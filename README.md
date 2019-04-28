@@ -1,4 +1,4 @@
 # calculator
 angular calculator demo
 
-ecma scrript6
+ecma script6 test
