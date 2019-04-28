@@ -1,0 +1,70 @@
+.calsWrapper {
+    text-align: center;
+}
+.calsBody {
+    display: inline-block;
+    background-color: #919191;
+    width: 400px;
+    height: 380px;
+    margin: 100px;
+    border-radius: 25px;
+    border: 1px solid #000;
+}
+.calsPadWrapper {
+    margin: 40px;
+} 
+.calsDisplay {
+   width: 100%;
+   height: 35px; 
+   background-color: #F5F5F5;
+   text-align: left;
+}
+.keyPadTopSpace {
+    margin-top: 30px;
+}
+.leftPadWrapper {
+    margin-bottom: 20px; 
+    width:56%;
+    float: left;
+}
+.rightPadWrapper {
+    float: right;
+    margin-bottom: 20px;  
+    margin-left: 20px;
+    width: 35%;
+}
+.keyBlock {
+    cursor: pointer;
+    float: left;
+    width: 45px;
+    height: 45px;
+    background-color: #E0E0E0;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 20px;
+    box-shadow: 1px 1px #E0E0E0; 
+}
+.keyBlockRight {
+    cursor: pointer;
+    float: left;
+    width: 45px;
+    height: 45px;
+    background-color: #E0E0E0;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 1px 1px #E0E0E0;
+}
+.keyBlockEquall {
+    cursor: pointer;
+    float: left;
+    width: 100%;
+    height: 45px;
+    background-color: #E0E0E0;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 20px;
+    box-shadow: 1px 1px #E0E0E0;
+}
+.calsBtn {
+    margin: 12px;
+}
